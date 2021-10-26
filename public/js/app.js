@@ -1,4 +1,4 @@
-console.log("Client side javascript!");
+// console.log("Client side javascript!");
 
 //select the weather form
 const weatherForm = document.querySelector("form");
